@@ -1,0 +1,15 @@
+coverage/
+node_modules/
+dist/
+*.DS_Store
+*-error.log
+package-lock.json
+__snapshots__/
+bundle.*
+/public/style.css
+/public/style.css.map
+*.map
+.env.development
+.env.test
+.env.production
+*.DS_Store
